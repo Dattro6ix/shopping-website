@@ -135,3 +135,6 @@ img:hover {
   transition: transform 0.3s ease-in-out;
 }
 
+.rating span:last-child {
+  color: #457B9D;
+}
